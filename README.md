@@ -1,10 +1,36 @@
-# m16assignment
+# 📦 API-Based Product Management
 
-A new Flutter project.
+API-Based Product Management is a Flutter application that performs full **CRUD (Create, Read, Update, Delete)** operations on products using a REST API.  
+This project demonstrates how to integrate APIs with Flutter for real-time product management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+
+- Create new products
+- View product list and product details
+- Update existing products
+- Delete products
+- REST API integration (GET, POST, PUT, DELETE)
+- Clean and responsive Flutter UI
+
+---
+
+## 🧠 Project Overview
+
+This application allows users to manage products through an external REST API.
+
+Key points:
+- Uses HTTP requests to communicate with the backend
+- Follows clean code structure
+- Suitable for learning API integration in Flutter
+- Can run on Android, iOS, Web, Windows, macOS, and Linux
+
+---
+
+## 📂 Folder Structure
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
